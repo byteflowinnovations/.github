@@ -1,7 +1,15 @@
+🌐 Byteflow Innovations
+Innovate · Connect · Inspire
+
 🚀 About Us
 
 Byteflow Innovations Pvt Ltd is a technology-driven company specializing in building scalable and innovative digital solutions for enterprises, government organizations, and educational institutions.
 We focus on seamless integration, automation, and modernization of core business systems to empower digital transformation.
+
+🚀 Our Mission & Vision
+
+Mission: Empower institutions and enterprises through transparent, reliable, and cutting-edge digital systems.
+Vision: Create innovative digital ecosystems that combine elegant design with advanced technology.
 
 🧠 Key Solutions
 
