@@ -15,10 +15,15 @@ Vision: Create innovative digital ecosystems that combine elegant design with ad
 🧠 Key Solutions
 
 💼 Digital Valuation System – Smart valuation and analytics platform for government and enterprise use.
+
 🏛️ Government Organization Recruitment – Streamlined recruitment and candidate management systems.
+
 🎓 University Examination Management System – Complete student examination lifecycle automation.
+
 🏥 Hospital Management System (HMS) – End-to-end patient and hospital workflow management.
+
 🏢 Apartment Management System – Simplified property, billing, and resident engagement management.
+
 
 🧩 Technology Stack
 
