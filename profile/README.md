@@ -25,11 +25,17 @@ Vision: Create innovative digital ecosystems that combine elegant design with ad
 Domain	Technologies
 
 Backend	.NET Core, ASP.NET, Node.js
+
 Frontend	React, HTML5, CSS3
+
 Database	SQL Server
+
 Cloud	Microsoft Azure
+
 DevOps	GitHub Actions, Docker
+
 Tools	Visual Studio, VS Code, Postman
+
 
 We’re open to partnerships, integrations, and research collaborations.
 Reach us at contact@byteflowinnovations.co.in to discuss your project or idea.
