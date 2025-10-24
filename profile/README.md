@@ -32,12 +32,12 @@ DevOps	GitHub Actions, Docker
 Tools	Visual Studio, VS Code, Postman
 
 We’re open to partnerships, integrations, and research collaborations.
-Reach us at contact@avia.co.in to discuss your project or idea.
+Reach us at contact@byteflowinnovations.co.in to discuss your project or idea.
 
 🌐 Connect With Us
 
 
 
 🔗 Website: https://byteflowinnovations.co.in/
-📧 Email: info@byteflowinnovations.co.in (optional — add if you’d like)
+📧 Email: info@byteflowinnovations.co.in
 📍 Location: India
