@@ -42,11 +42,16 @@ DevOps	GitHub Actions, Docker
 Tools	Visual Studio, VS Code, Postman
 
 
+## Key Links
+- Organization Documentation: https://github.com/byteflowinnovations/org-docs
+- Coding Standards
+- CI/CD Guidelines
+
+
 We’re open to partnerships, integrations, and research collaborations.
 Reach us at contact@byteflowinnovations.co.in to discuss your project or idea.
 
 🌐 Connect With Us
-
 
 
 🔗 Website: https://byteflowinnovations.co.in/
